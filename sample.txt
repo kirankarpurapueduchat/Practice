@@ -7,4 +7,8 @@ This is line 5 added by user 1
 THis is not yet saved by user 1
 This is line 4 by user 2
 This has been added by user2
+<<<<<<< HEAD
 EFGH
+ABCD
+WXYZ
+>>>>>>> 5e03fe7c15146a3a7b4fd99f97dafac91730a358
