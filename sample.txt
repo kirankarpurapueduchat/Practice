@@ -6,10 +6,5 @@ This is line 4 by user 2 // user 1 is modifying this
 This is line 5 added by user 1
 THis is not yet saved by user 1
 This is line 4 by user 2
-This has been added by user2
-EFGH
-ABCD
-WXYZ
-efgh
-abcd
+User1 added a line but did not save in the meantime, user2 has pushed some updated code
 
