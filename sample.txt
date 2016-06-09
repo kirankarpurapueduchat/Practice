@@ -11,3 +11,4 @@ EFGH
 ABCD
 WXYZ
 abcd
+user2 has added a new line after abcd
