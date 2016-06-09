@@ -7,4 +7,10 @@ This is line 5 added by user 1
 THis is not yet saved by user 1
 This is line 4 by user 2
 User1 added a line but did not save in the meantime, user2 has pushed some updated code
-
+This has been added by user2
+EFGH
+ABCD
+WXYZ
+efgh
+abcd
+user2 has added a new line after abcd
