@@ -10,5 +10,6 @@ This has been added by user2
 EFGH
 ABCD
 WXYZ
+efgh
 abcd
 user2 has added a new line after abcd
